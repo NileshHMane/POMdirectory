@@ -1,0 +1,11 @@
+<!-- <?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd"> -->
+<suite name="AdminLteSuite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="com.adminlte.qa.testcases.LoginpageTestcases" />
+			<class name="com.adminlte.qa.testcases.DashboardTest" />
+			<class name="com.adminlte.qa.testcases.UserPageTestcases" />
+			<class name="com.adminlte.qa.testcases.AdduserTestcases" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

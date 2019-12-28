@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [AdminLteSuite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.adminlte.qa.testcases.AdduserTestcases">
+        <methods>
+          <include name="closebrowser"/>
+          <include name="setup"/>
+          <include name="gettitleofpage"/>
+        </methods>
+      </class> <!-- com.adminlte.qa.testcases.AdduserTestcases -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [AdminLteSuite] -->

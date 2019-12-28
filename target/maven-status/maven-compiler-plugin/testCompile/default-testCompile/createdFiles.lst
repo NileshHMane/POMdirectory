@@ -1,0 +1,4 @@
+com\adminlte\qa\testcases\AdduserTestcases.class
+com\adminlte\qa\testcases\LoginpageTestcases.class
+com\adminlte\qa\testcases\UserPageTestcases.class
+com\adminlte\qa\testcases\DashboardTest.class

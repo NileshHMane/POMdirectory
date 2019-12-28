@@ -1,0 +1,10 @@
+com\adminLTE\qa\pages\Adduserpage.class
+com\adminLTE\qa\pages\Seleniumtestingsyllabus.class
+com\adminLTE\qa\util\TestUtil.class
+com\adminLTE\qa\pages\Dashboardpage.class
+com\adminLTE\qa\pages\UserPage.class
+com\adminLTE\qa\base\TestBase.class
+com\adminLTE\qa\pages\Operatorspage.class
+com\adminLTE\qa\pages\LoginPage.class
+com\adminLTE\qa\pages\Pythonsyllabus.class
+com\adminLTE\qa\util\WebEventListener.class
